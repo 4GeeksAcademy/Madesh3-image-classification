@@ -3,6 +3,3 @@ __pycache__
 .venv
 .venv-GPU
 requirements-GPU.txt
-.env
-data
-models
